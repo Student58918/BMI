@@ -1,0 +1,9 @@
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\bin\Debug\notatnik.exe.config
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\bin\Debug\notatnik.exe
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\bin\Debug\notatnik.pdb
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\obj\Debug\notatnik.csprojResolveAssemblyReference.cache
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\obj\Debug\notatnik.Form1.resources
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.Cache
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\obj\Debug\notatnik.exe
+c:\users\wojciech\documents\visual studio 2015\Projects\notatnik\notatnik\obj\Debug\notatnik.pdb
